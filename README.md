@@ -53,7 +53,7 @@ From gears to algorithms, I’m an engineer in a world where innovation and poss
 <p align="center">
 
 - **InsighTrack** 📊:  
-  An analytics SaaS platform for tracking user interactions and product metrics.
+  An analytics SaaS platform for tracking user interactions and product metrics( work still in progress ....).
 
   - **API Repository**: [InsighTrack API](https://github.com/dheerajGits/InsighTrack-API)  
   - **Frontend Repository**: [InsighTrack Frontend](https://github.com/dheerajGits/InsighTrack-main)  
@@ -62,7 +62,7 @@ From gears to algorithms, I’m an engineer in a world where innovation and poss
 <br>
 
 - **PeerConnect** 🌐:  
-  A WebRTC-based platform for real-time communication and peer-to-peer connections.
+  A WebRTC-based platform for real-time communication and peer-to-peer connections using peerjs and websockets.
 
   - **Backend Repository**: [PeerConnect Frontend](https://github.com/dheerajGits/PeerConnect-server)  
   - **Frontend Repository**: [PeerConnect Backend](https://github.com/dheerajGits/PeerConnect-client)  
