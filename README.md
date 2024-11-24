@@ -83,6 +83,6 @@ From gears to algorithms, I’m an engineer in a world where innovation and poss
 <p align="center">
   Feel free to connect via 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="25"/>
-  <a href="www.linkedin.com/in/dheeraj-sharma-000872239">LinkedIn</a>!<br>
+  <a href="https://www.linkedin.com/in/dheeraj-sharma-000872239">LinkedIn</a>!<br>
   <h2 align="center">Let's build the future together 🚀!</h2>
 </p>
