@@ -64,8 +64,8 @@ From gears to algorithms, I’m an engineer in a world where innovation and poss
 - **PeerConnect** 🌐:  
   A WebRTC-based platform for real-time communication and peer-to-peer connections using peerjs and websockets.
 
-  - **Backend Repository**: [PeerConnect Frontend](https://github.com/dheerajGits/PeerConnect-server)  
-  - **Frontend Repository**: [PeerConnect Backend](https://github.com/dheerajGits/PeerConnect-client)  
+  - **Backend Repository**: [PeerConnect Backend](https://github.com/dheerajGits/PeerConnect-server)  
+  - **Frontend Repository**: [PeerConnect Frontend](https://github.com/dheerajGits/PeerConnect-client)  
 
 <br>
 
